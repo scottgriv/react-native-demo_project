@@ -13,9 +13,9 @@ This file is used to connect this repository to the **PRG** project categorizati
 ## Project Information
 
 **Repository Tier:** Silver <br>
-**Technology:** Markdown, GitHub <br>
-**Category:** Public Template <br>
-**Order:** 21 <br>
+**Technology:** React Native, Android, iOS <br>
+**Category:** Mobile Application <br>
+**Order:** 55 <br>
 
 ## Parameters
 
