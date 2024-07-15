@@ -12,7 +12,7 @@ This file is used to connect this repository to the **PRG** project categorizati
 
 ## Project Information
 
-**Repository Tier:** Silver <br>
+**Repository Tier:** Bronze <br>
 **Technology:** React Native, Android, iOS <br>
 **Category:** Mobile Application <br>
 **Order:** 55 <br>
